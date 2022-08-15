@@ -827,7 +827,7 @@ $boost=3,site=emsolve.com
 $boost=3,site=en-gb.napoleoncasino.be
 $boost=3,site=en-gb.napoleondice.be
 $boost=3,site=en.vidaxl.ae
-$boost=3,site=engineering-staging.getmoneytree.com â€¨
+$boost=3,site=engineering-staging.getmoneytree.com
 $boost=3,site=enjinx.cn
 $boost=3,site=enjinx.io
 $boost=3,site=enterprise-demo.portswigger.net
@@ -1560,7 +1560,6 @@ $boost=3,site=ok.databricks.com
 $boost=3,site=old.reddit.com
 $boost=3,site=omgpro.airbnb.com
 $boost=3,site=omise.co
-$boost=3,site=on-premises software
 $boost=3,site=on-ramp.metaswap-dev.codefi.network
 $boost=3,site=onboard.neogov.com
 $boost=3,site=onboarding.cloud.com
