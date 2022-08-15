@@ -946,8 +946,8 @@ $boost=3,site=getflywheel.com
 $boost=3,site=getharvest.com
 $boost=3,site=gift.starbucks.co.jp
 $boost=3,site=gist.github.com
-$boost=3,site=github.com
-$boost=3,site=github.net
+$boost=2,site=github.com
+$boost=2,site=github.net
 $boost=3,site=githubapp.com
 $boost=3,site=githubusercontent.com
 $boost=3,site=gitlab.com
