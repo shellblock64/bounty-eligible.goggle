@@ -1,5 +1,5 @@
-! name: Bug Bounty
-! description: Rerank results only to sites with a bug bounty program on Hackerone, Bugcrowd, Intigriti, Hackenproof and YesWeHack.  Site data sourced from https://github.com/arkadiyt/bounty-targets-data.
+! name: Bounty Eligible
+! description: Rerank results only to sites with bounty eligible programs on Hackerone, Bugcrowd and Intigriti.  Site data sourced from https://github.com/arkadiyt/bounty-targets-data.
 ! public: false
 ! author: shellblock64
 
