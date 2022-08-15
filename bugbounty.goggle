@@ -531,7 +531,7 @@ $boost=3,site=cdna.lystit.com
 $boost=3,site=cds.vrt.radio
 $boost=3,site=celo.org
 $boost=3,site=central.indeed.com
-$boost=3,site=centrify.com\t
+$boost=3,site=centrify.com
 $boost=3,site=certsy.com
 $boost=3,site=certsynonprod.com
 $boost=3,site=charts.binary.com
@@ -1660,7 +1660,7 @@ $boost=3,site=pgg11o.hubspot.databricks.com
 $boost=3,site=photos.amazon.com
 $boost=3,site=pigeon.swiftfinancial.com
 $boost=3,site=pinterest.com
-$boost=3,site=pinterest.com Web Apps
+$boost=3,site=pinterest.com
 $boost=3,site=pixabay.com
 $boost=3,site=pixiv.net
 $boost=3,site=pizza-planet.lob.com
